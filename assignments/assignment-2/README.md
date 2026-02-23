@@ -74,3 +74,7 @@ Each row in `retrieval_results.parquet` includes a `youtube_verify_url` field. O
 ```
 https://www.youtube.com/embed/YcvECxtXoxQ?start=120&end=165
 ```
+
+## Dataset
+
+Detection index hosted on Hugging Face: https://huggingface.co/datasets/naenile40/rav4-detections
