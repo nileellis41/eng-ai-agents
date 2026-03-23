@@ -1,0 +1,11 @@
+Submission Note — Assignment 3
+
+I am submitting this assignment past the deadline and want to be transparent about why.
+
+I initially built the full dataset pipeline locally on my Windows machine, which included writing a custom Python script to download and merge two open-source drone detection datasets totaling over 80,000 labeled images. That pipeline ran successfully, but when I reached the model training step I recognized that running YOLOv8 fine-tuning on CPU would take upwards of 4-8 hours — time I did not have available before the deadline.
+
+I made the decision to migrate the entire pipeline to Google Colab to access GPU compute. This was my own call, not a requirement of the assignment. That migration required re-downloading the datasets (approximately 12GB total), re-running the merge pipeline, and sequentially executing training, inference, Kalman filter tracking, and video rendering — all of which had to complete in order before the final deliverables could be produced.
+
+The delay was driven by the computational scale of the work, not by a lack of preparation or understanding of the material. The pipeline is complete and fully functional end to end.
+
+I take responsibility for not accounting for the training time constraint earlier in my planning. I appreciate your consideration.
