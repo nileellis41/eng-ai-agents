@@ -3,10 +3,10 @@
 ## Output Tracking Videos
 
 **Video 1:**
-[drone_video_1_tracked](https://www.youtube.com/watch?v=YOUR_VIDEO_1_ID)
+[drone_video_1_tracked](https://www.youtube.com/watch?v=cyiAo6mGWMg)
 
 **Video 2:**
-[drone_video_2_tracked](https://www.youtube.com/watch?v=YOUR_VIDEO_2_ID)
+[drone_video_2_tracked](https://www.youtube.com/watch?v=TyIlwrNuFz8)
 
 ---
 
